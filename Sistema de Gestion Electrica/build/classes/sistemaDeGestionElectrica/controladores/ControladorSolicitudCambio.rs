@@ -1,0 +1,2 @@
+sistema.de.gestion.electrica.controladores.ControladorSolicitudCambio
+sistema.de.gestion.electrica.controladores.ControladorSolicitudCambio$ControladorSolicitudCambio
